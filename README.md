@@ -1,5 +1,5 @@
 # Bookstore Application
-A simple, React/ Redux application that uses the Google Books API to allow a user to:
+A simple, React application that uses the Google Books API to allow a user to:
 
 * search for books and display the results
 * click on a particular book to get more information
